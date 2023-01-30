@@ -1,0 +1,64 @@
+
+#collapsable-nav {
+    text-align: center;
+    font-size: 20px;
+}
+#Menu-list {
+    padding-bottom: 5px;
+    border-bottom: 2px solid gray;
+    background-color: white;
+}
+#Menu-items {
+    color: black;
+    font-weight: bold;
+}
+#Brand {
+    color: black;
+    font-size: 30px;
+    padding: 5px;
+    font-weight: bold;
+}
+#Nav-menu {
+    margin: 0px;
+    height: 70px;
+    background-color: gray;
+    position: relative;
+    z-index: 1;
+}
+#Menu-button  {
+    height: 70px;
+    color: black;
+}
+#bar {
+    color: black;
+    height: 3px;
+}
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+.navbar-toggle {
+    border-color: #ddd;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+body {
+    margin: 0px;
+    width: 100%;
+}
+.container {
+    width: 100%;
+}
+#Main-Text.container {
+    position: relative;
+    float:center;
+    width: auto;
+    height: auto;
+    background-color: gray;
+    margin: 30px;
+
+}
+#Head-Text {
+    display: block;
+    position: relative;
+}
